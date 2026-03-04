@@ -1,28 +1,28 @@
 # Textile-Wholesale-Sales-Analysis
 
-📊 ## Data-Driven Sales Optimization for Textile Wholesale
+## 📊 Data-Driven Sales Optimization for Textile Wholesale
 
 An end-to-end Power BI analytics project developed to translate a Business Requirement Document (BRD) into a structured KPI-driven decision-support dashboard.
 
 This project demonstrates how business challenges can be converted into measurable metrics and actionable insights using data modeling and DAX.
 
-🎯 ## Business Objective
+## 🎯 Business Objective
 
 The textile wholesale industry faces:
 
-Revenue dependency on key retailers
+* Revenue dependency on key retailers
 
-Fluctuating month-on-month sales
+* Fluctuating month-on-month sales
 
-Product-level profitability variation
+* Product-level profitability variation
 
-Customer retention challenges
+* Customer retention challenges
 
-Regional demand imbalance
+* Regional demand imbalance
 
 This project analyzes 661K+ in total sales data to uncover risks, growth patterns, and profitability insights.
 
-🧩 ## Solution Approach
+## 🧩 Solution Approach
 
 ✔ Interpreted BRD into analytical questions
 ✔ Designed business-aligned KPIs
@@ -31,77 +31,72 @@ This project analyzes 661K+ in total sales data to uncover risks, growth pattern
 ✔ Implemented time-intelligence analysis
 ✔ Designed interactive multi-page dashboards
 
-📈 ## Key KPIs Implemented
+## 📈 Key KPIs Implemented
 
-Total Sales
+* Total Sales
 
-Profit & Overall Profit Margin
+* Profit & Overall Profit Margin
 
-Contribution Margin (%)
+* Contribution Margin (%)
 
-Customer Lifetime Value (CLV)
+* Customer Lifetime Value (CLV)
 
-Repeat Purchase Rate
+* Repeat Purchase Rate
 
-Sales Concentration Index (SCI)
+* Sales Concentration Index (SCI)
 
-Retailer Profit Rank
+* Retailer Profit Rank
 
-Sales Growth Momentum (MoM)
+* Sales Growth Momentum (MoM)
 
-📊 ## Dashboard Pages
+## 📊 Dashboard Pages
 🔹 Sales Overview
-
 High-level performance summary and trend analysis.
 
 🔹 Product Performance
-
 Product contribution margin and profitability insights.
 
 🔹 Retailer & Regional Analysis
-
 Customer lifetime value, ranking, and regional contribution.
 
 🔹 Drill-Through Report
-
 Granular retailer-level and product-level deep-dive analysis.
 
-🛠 ## Tools & Technologies
+## 🛠 Tools & Technologies
 
-Power BI
+* Power BI
 
-DAX
+* DAX
 
-Data Modeling (Star Schema)
+* Data Modeling (Star Schema)
 
-Time Intelligence Functions
+* Time Intelligence Functions
 
-Business KPI Framework Design
+* Business KPI Framework Design
 
 
-
-💡 ## Business Impact
+## 💡 Business Impact
 
 This project enables decision-makers to:
 
-Identify revenue concentration risk
+* Identify revenue concentration risk
 
-Detect high-margin and low-performing products
+* Detect high-margin and low-performing products
 
-Recognize high-value retailers
+* Recognize high-value retailers
 
-Monitor month-on-month growth
+* Monitor month-on-month growth
 
-Improve strategic planning using KPI insights
+* Improve strategic planning using KPI insights
 
-🚀 ## About This Project
+## 🚀 About This Project
 
 This capstone demonstrates the ability to:
 
-Translate business requirements into analytical models
+* Translate business requirements into analytical models
 
-Design scalable KPI architectures
+* Design scalable KPI architectures
 
-Build structured and reusable DAX measures
+* Build structured and reusable DAX measures
 
-Deliver decision-focused dashboards
+* Deliver decision-focused dashboards
