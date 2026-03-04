@@ -105,3 +105,12 @@ This capstone demonstrates the ability to:
 * Build structured and reusable DAX measures
 
 * Deliver decision-focused dashboards
+
+
+## 📥 Power BI File Access
+
+The complete Power BI project file is available below:
+
+[Download Textile Sales Analysis PBIX](Data Driven Sales Optimization for Textile Industry.pbix)
+
+*Note: Sample dataset used for demonstration purposes.*
