@@ -111,5 +111,6 @@ This capstone demonstrates the ability to:
 
 The complete Power BI project file is available below:
 
-[Download the PBIX file ](https://github.com/Bhadriprasath/Textile-Wholesale-Sales-Analysis/blob/main/Data%20Driven%20Sales%20Optimization%20for%20Textile%20Industry.pbix)
+[Click here to Download the PBIX file ](https://github.com/Bhadriprasath/Textile-Wholesale-Sales-Analysis/blob/main/Data%20Driven%20Sales%20Optimization%20for%20Textile%20Industry.pbix)
+
 *Note: Sample dataset used for demonstration purposes.*
