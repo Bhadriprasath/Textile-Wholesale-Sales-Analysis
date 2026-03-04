@@ -111,6 +111,5 @@ This capstone demonstrates the ability to:
 
 The complete Power BI project file is available below:
 
-[Download Data Driven Sales Optimization for Textile Industry PBIX](Files/Data Driven Sales Optimization for Textile Industry.pbix)
-
+[Download the PBIX file ](https://github.com/Bhadriprasath/Textile-Wholesale-Sales-Analysis/blob/main/Data%20Driven%20Sales%20Optimization%20for%20Textile%20Industry.pbix)
 *Note: Sample dataset used for demonstration purposes.*
