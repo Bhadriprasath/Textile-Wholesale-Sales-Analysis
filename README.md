@@ -24,11 +24,16 @@ This project analyzes 661K+ in total sales data to uncover risks, growth pattern
 
 ## 🧩 Solution Approach
 
-✔ Interpreted BRD into analytical questions
+✔ Interpreted BRD into analytical questions 
+
 ✔ Designed business-aligned KPIs
+
 ✔ Built a structured star-schema model
+
 ✔ Developed layered DAX measures
+
 ✔ Implemented time-intelligence analysis
+
 ✔ Designed interactive multi-page dashboards
 
 ## 📈 Key KPIs Implemented
